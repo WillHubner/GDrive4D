@@ -6,7 +6,7 @@ https://developers.google.com/drive/api/v3/about-sdk
 
 Ative a API para obter as Credenciais de acesso a API.
 
-Para instalar:
+* Instalação usando [**Boss**](https://github.com/HashLoad/boss):
 
 ```
 boss install github.com/WillHubner/GDrive4D
