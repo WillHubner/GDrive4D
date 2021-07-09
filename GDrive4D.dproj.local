@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/07/09 15:59:37.000.135,=rtl.dcp</Transaction>
+    <Transaction>2021/07/09 15:59:45.000.261,C:\Users\Willian Hubner\Documents\Embarcadero\Studio\Projects\Package1.dproj=C:\Users\Willian Hubner\Documents\Embarcadero\Studio\Projects\GDrive4D.dproj</Transaction>
+    <Transaction>2021/07/09 16:00:11.000.665,C:\Users\Willian Hubner\Documents\Embarcadero\Studio\Projects\GDrive4D.dproj=C:\Users\Willian Hubner\Desktop\GDrive\GDrive4D\GDrive4D.dproj</Transaction>
+    <Transaction>2021/07/09 16:00:35.000.321,=C:\Users\Willian Hubner\Desktop\GDrive\GDrive4D\src\GDrive4D.Interfaces.pas</Transaction>
+    <Transaction>2021/07/09 16:00:35.000.257,=C:\Users\Willian Hubner\Desktop\GDrive\GDrive4D\src\GDrive4D.Classes.Auth.pas</Transaction>
+    <Transaction>2021/07/09 16:00:35.000.287,=C:\Users\Willian Hubner\Desktop\GDrive\GDrive4D\src\GDrive4D.Classes.Drive.pas</Transaction>
+    <Transaction>2021/07/09 16:00:35.000.378,=C:\Users\Willian Hubner\Desktop\GDrive\GDrive4D\src\GDrive4D.pas</Transaction>
+    <Transaction>2021/07/09 16:42:09.243,=bindengine.dcp</Transaction>
+    <Transaction>2021/07/09 16:42:09.257,=dbrtl.dcp</Transaction>
+    <Transaction>2021/07/09 16:42:09.269,=bindcomp.dcp</Transaction>
+    <Transaction>2021/07/09 16:42:09.280,=RESTComponents.dcp</Transaction>
+    <Transaction>2021/07/09 16:42:09.293,=FireDAC.dcp</Transaction>
+    <Transaction>2021/07/09 16:42:09.306,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>2021/07/09 16:42:09.320,=FireDACCommon.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
