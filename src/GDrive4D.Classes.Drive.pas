@@ -142,6 +142,7 @@ begin
 
   LResponse := TRequest.New.BaseURL(Base_URL + '/' + FileId + '?key='+Fauth.ApiKey+'&alt=media')
     .Token('Bearer '+FAuth.Token)
+    .FallbackCharsetEncoding('')
     .Get;
 
   if (LResponse.StatusCode = 200) then
